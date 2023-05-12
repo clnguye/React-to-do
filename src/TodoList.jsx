@@ -11,8 +11,8 @@ return(
                 toggleTodo={toggleTodo} 
                 deleteTodo ={deleteTodo}
             />
-      )
-    })}
+        )
+      })}
     </ul>
 )
 }
